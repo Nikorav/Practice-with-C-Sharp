@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.exe
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.deps.json
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.runtimeconfig.json
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.dll
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\ref\Practice with variables.dll
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\bin\Debug\net5.0\Practice with variables.pdb
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.dll
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\ref\Practice with variables.dll
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.pdb
+C:\Users\kolya\source\repos\Practice with variables\Practice with variables\obj\Debug\net5.0\Practice with variables.genruntimeconfig.cache

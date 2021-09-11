@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.exe
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.deps.json
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.runtimeconfig.json
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.dll
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\ref\Practice with one-dimensional arrays.dll
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\bin\Debug\net5.0\Practice with one-dimensional arrays.pdb
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.dll
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\ref\Practice with one-dimensional arrays.dll
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.pdb
+C:\Users\kolya\source\repos\Practice with one-dimensional arrays\Practice with one-dimensional arrays\obj\Debug\net5.0\Practice with one-dimensional arrays.genruntimeconfig.cache

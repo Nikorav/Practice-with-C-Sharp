@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.exe
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.deps.json
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.runtimeconfig.json
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.dll
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\ref\Practice with conditional operators.dll
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\bin\Debug\net5.0\Practice with conditional operators.pdb
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.dll
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\ref\Practice with conditional operators.dll
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.pdb
+C:\Users\kolya\source\repos\Practice with conditional operators\Practice with conditional operators\obj\Debug\net5.0\Practice with conditional operators.genruntimeconfig.cache

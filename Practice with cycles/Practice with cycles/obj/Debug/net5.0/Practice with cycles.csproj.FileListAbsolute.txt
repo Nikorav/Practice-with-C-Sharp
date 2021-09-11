@@ -1,0 +1,16 @@
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.exe
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.deps.json
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.runtimeconfig.json
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.runtimeconfig.dev.json
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.dll
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\ref\Practice with cycles.dll
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\bin\Debug\net5.0\Practice with cycles.pdb
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.csproj.AssemblyReference.cache
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.AssemblyInfoInputs.cache
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.AssemblyInfo.cs
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.csproj.CoreCompileInputs.cache
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.dll
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\ref\Practice with cycles.dll
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.pdb
+C:\Users\kolya\source\repos\Practice with cycles\Practice with cycles\obj\Debug\net5.0\Practice with cycles.genruntimeconfig.cache
